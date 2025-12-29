@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is GAN LUO XI
 ===================================================================================================================================
 
-Bachelor of Computer Science (Graphic and Multimedia Software) | UTM
+First year degree of Computer Science (Graphic and Multimedia Software) | UTM
 --------------------------------------------------------------------
 
 I am a computing student who loves reading and travelling.
