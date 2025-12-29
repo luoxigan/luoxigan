@@ -16,8 +16,8 @@ I am a computing student who loves reading and travelling.
 🎓 Universiti Teknologi Malaysia (2025-Present) <br>
 -Course : Bachelor of Computer Science (Graphic and Multimedia Software) with Honors <br>
 🎓 Kolej Matrikulasi Kejuruteraan Johor (2024-2025)  <br>
--Course : Basic Engineering 
--CGPA : 4.00 
+-Course : Basic Engineering  <br>
+-CGPA : 4.00  <br>
 -MUET : Band 4.0 <br>
 🎓Seri Omega Private and International School(2019-2024) <br> 
 -SPM : 10A <br>
