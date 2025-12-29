@@ -8,6 +8,7 @@ I am a computing student who loves reading and travelling.
 
 * 🌍  I'm based in Kulai,Johor
 * ✉️  You can contact me at [lxgan26@gmail.com](mailto:lxgan26@gmail.com)
+* 🎓  Education : Degree of Computer Science (Graphics and Multimedia Software)
 * 🧠  I'm currently learning C++
 * 💬  A contented mind is a perpetual feast.
 
