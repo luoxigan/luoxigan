@@ -23,7 +23,7 @@ I am a computing student who loves reading and travelling.
 
 Welcome to my courses page! Click on the course name to access the corresponding folder with materials.
 
-- [SECI1013 Discrete Structure]（https://github.com/luoxigan/Year1_Sem1/tree/main/SECI1013_Discrete_Structure）
+- [SECI1013 Discrete Structure](SECI1013_Discrete_Structure/)
 - [SECJ1013 Programming Technique I](SECJ1013_Programming_Technique_I/)
 - [SECP1513 Technology And Information System](SECP1513_Technology_And_Information_System/)
 - [SECR1013 Digital Logic](SECR1013_Digital_Logic/)
