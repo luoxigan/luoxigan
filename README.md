@@ -19,12 +19,12 @@ I am a computing student who loves reading and travelling.
 
 <p align="left"> <a href="https://www.github.com/luoxigan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Luo Xi Gan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-# My Courses
+## 📚 My Courses
 
-Welcome to my courses page! Click on the course name to access the corresponding folder with materials.
+### Year 1 – Semester 1
+- [SECI1013 Discrete Structure](https://github.com/luoxigan/Year1_Sem1/tree/main/SECI1013_Discrete_Structure)
+- [SECJ1013 Programming Technique I](https://github.com/luoxigan/Year1_Sem1/tree/main/SECJ1013_Programming_Technique_I)
+- [SECP1513 Technology And Information System](https://github.com/luoxigan/Year1_Sem1/tree/main/SECP1513_Technology_And_Information_System)
+- [SECR1013 Digital Logic](https://github.com/luoxigan/Year1_Sem1/tree/main/SECR1013_Digital_Logic)
+- [ULRS1032 Integrity And Anti-Corruption Course](https://github.com/luoxigan/Year1_Sem1/tree/main/ULRS1032_Integrity_And_Anti-Corruption_Course)
 
-- [SECI1013 Discrete Structure](./SECI1013_Discrete_Structure)
-- [SECJ1013 Programming Technique I](./SECJ1013_Programming_Technique_I)
-- [SECP1513 Technology And Information System](./SECP1513_Technology_And_Information_System)
-- [SECR1013 Digital Logic](./SECR1013_Digital_Logic)
-- [ULRS1032 Integrity And Anti-Corruption Course](./ULRS1032_Integrity_And_Anti-Corruption_Course)
