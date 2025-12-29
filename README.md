@@ -13,15 +13,15 @@ I am a computing student who loves reading and travelling.
 * 💬  A contented mind is a perpetual feast.
 
 ### Education
-🎓 Universiti Teknologi Malaysia (2025-Present)
+🎓 Universiti Teknologi Malaysia (2025-Present) <br>
 -Course : Bachelor of Computer Science (Graphic and Multimedia Software) with Honors <br>
-🎓 Kolej Matrikulasi Kejuruteraan Johor (2024-2025) 
+🎓 Kolej Matrikulasi Kejuruteraan Johor (2024-2025)  <br>
 -Course : Basic Engineering 
 -CGPA : 4.00 
 -MUET : Band 4.0 <br>
-🎓Seri Omega Private and International School(2019-2024) 
+🎓Seri Omega Private and International School(2019-2024) <br> 
 -SPM : 10A <br>
-🎓 SJK(C)Kulai Besar (2013-2018) 
+🎓 SJK(C)Kulai Besar (2013-2018)  <br>
 -UPSR : 8A<br>
 
 ### Skills
