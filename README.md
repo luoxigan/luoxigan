@@ -8,9 +8,21 @@ I am a computing student who loves reading and travelling.
 
 * 🌍  I'm based in Kulai,Johor
 * ✉️  You can contact me at [lxgan26@gmail.com](mailto:lxgan26@gmail.com)
-* 🎓  Education : Degree of Computer Science (Graphics and Multimedia Software)
+* 🎓  Course : Degree of Computer Science (Graphics and Multimedia Software)
 * 🧠  I'm currently learning C++
 * 💬  A contented mind is a perpetual feast.
+
+### Education
+🎓 Universiti Teknologi Malaysia (2025-Present)
+-Course : Bachelor of Computer Science (Graphic and Multimedia Software) with Honors <br>
+🎓 Kolej Matrikulasi Kejuruteraan Johor (2024-2025) 
+-Course : Basic Engineering 
+-CGPA : 4.00 
+-MUET : Band 4.0 <br>
+🎓Seri Omega Private and International School(2019-2024) 
+-SPM : 10A <br>
+🎓 SJK(C)Kulai Besar (2013-2018) 
+-UPSR : 8A<br>
 
 ### Skills
 <p align="left">
