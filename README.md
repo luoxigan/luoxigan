@@ -5,7 +5,7 @@ First year degree of Computer Science (Graphic and Multimedia Software) | UTM
 --------------------------------------------------------------------
 
 I am a computing student who loves reading and travelling.
-Explore my portfolio here!!!https://luoxigan.my.canva.site/
+Explore my portfolio here!!!https://luoxigan.github.io/ or https://luoxigan.my.canva.site/
 
 * 🌍  I'm based in Kulai,Johor
 * ✉️  You can contact me at [lxgan26@gmail.com](mailto:lxgan26@gmail.com)
